@@ -1,0 +1,16 @@
+body {background-color: grey;
+margin: 0;
+padding: 0;
+max-width: 100%;}
+
+
+.section-1 {
+    background-color: #78caab57;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
